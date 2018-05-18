@@ -1,4 +1,4 @@
-﻿namespace DISPLAY_UG_OOP
+﻿namespace Display_Cat_Forms
 {
     partial class Form1
     {

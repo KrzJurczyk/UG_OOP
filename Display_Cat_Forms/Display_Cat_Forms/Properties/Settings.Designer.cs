@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DISPLAY_UG_OOP.Properties
+namespace Display_Cat_Forms.Properties
 {
 
 
